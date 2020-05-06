@@ -17,3 +17,13 @@ void main(){
   var helloWorld = "Hello World !";
   String HelloWorld = "HelloWorld";
 }
+
+/*Now, let's take a look at what we just wrote. You can see that we started our program with the following line: void main() {}, 
+but what is this line? This line is the main function of our program, without it, the program wouldn't work, it's like bread, without water, it doesn't work.*/
+/*Now, let's take a look at what we just wrote. You can see that we started our program with the following line: void main() {}, but what is this line? This line is the main function of our program, 
+without it, the program wouldn't work, it's like bread, without water, it doesn't work. 
+All the code of our program will have to be in this function, otherwise, it will be the void between the sides. */
+
+// In the next class we will look at how the conditions work with Dart. I hope this course on Dart variables will get you more! See you next week
+// ps: without knowing it you now know how to make comments in Dart! It's fun, isn't it? 
+// Check Out the exercice on the TP.md file
